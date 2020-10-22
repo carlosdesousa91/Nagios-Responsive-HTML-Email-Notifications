@@ -459,7 +459,7 @@ $HTMLmessage = '
         <tr>
           <td style="font-family: CoconPro-BoldCond, Open Sans, Verdana, sans-serif; vertical-align:middle; color: #999999; text-align: center; padding: 40px 10px;width: 100%;" class="x-gmail-data-detectors">
             <span style="font-family: CoconPro-BoldCond, Open Sans, Verdana, sans-serif; color:#999999; text-align:center;">
-              Copyright &#169; 2014-' .$f_date_year. ' &#124; <a href="mailto:hhan@mail.fo?subject=Centreon-HTML-Email-Notifications" style="font-family: CoconPro-BoldCond, Open Sans, Verdana, sans-serif; text-decoration:underline; color:#000000;">Heini Holm Andersen</a>
+              Copyright &#169; 2014-' .$f_date_year. ' &#124; <a href="mailto:marcos.rodrigues@terceiro.rnp.br;carlos.sousa@terceiro.rnp.br?subject=Centreon-HTML-Email-Notifications" style="font-family: CoconPro-BoldCond, Open Sans, Verdana, sans-serif; text-decoration:underline; color:#000000;">Heini Holm Andersen</a>
             </span>
             <br>
             <span style="font-family: CoconPro-BoldCond, Open Sans, Verdana, sans-serif; color:#999999; text-align:center;">
