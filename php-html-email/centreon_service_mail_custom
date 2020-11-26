@@ -141,6 +141,11 @@ if($f_notify_type=="CUSTOM") {
   $f_ackauthor_desc="Custom Author:";
   $f_ackcomment_desc="Custom Comment:";
 }
+if($f_notify_type=="PROBLEM" && $f_serv_state=="UNKNOWN") {
+  $f_color="#AEB6BF";
+  $f_ackauthor_desc="Acknowledged Author:";
+  $f_ackcomment_desc="Acknowledged Comment:";
+}
 
 /* Modify the long service output so line breaks can work if present in the output */
 $f_serv_long_output = str_replace('\n', '<br />',$f_serv_long_output);
